@@ -26,7 +26,7 @@
 
 ### ⚡ Activity & Interests
 
-* **Currently Learning:** Advanced Distributed Consensus (Raft/Paxos) & System Design.
+* **Currently Learning:** Machine Learning, Backend & System Design.
 * **Focus:** Optimizing latency in real-time applications.
 * **Education:** B.Tech Computer Science @ **VIT Vellore** (2028).
 
